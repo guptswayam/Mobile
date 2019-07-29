@@ -16,5 +16,23 @@
 "name":"Redmi Note 7 Pro",
 "ram":"4GB,64GB",
 "price":"$59.5"
+},
+{
+"img":"https://www.mobiledokan.co/wp-content/uploads/2019/01/Samsung-Galaxy-M10.jpg",
+"name":"Samsung Galaxy M10",
+"ram":"2GB,32GB",
+"price":"$49.2"
+},
+{
+"img":"https://www.mobiledokan.co/wp-content/uploads/2019/01/Samsung-Galaxy-M20.jpg",
+"name":"Samsung Galaxy M20",
+"ram":"4GB,64GB",
+"price":"$53.4"
+},
+{
+"img":"https://www.ispyprice.com/static/nwprd_model/samsung-galaxy-m30-64gb-8921.jpg",
+"name":"Samsung Galaxy M30",
+"ram":"4GB,64GB",
+"price":"$60.1"
 }
 ]
