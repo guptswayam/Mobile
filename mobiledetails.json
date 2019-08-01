@@ -1,11 +1,11 @@
 [{
 	"name": "Redmi Note 5 Pro",
-	"images": ["https://images-na.ssl-images-amazon.com/images/I/41Xg1-BI%2B0L.jpg", "http://www.buyfree.in/userdata/gfx/9f8da0ea20ba8a5ce3bacf15d4c4d26c.jpg", "https://www.phonecurry.com/img/phones/Xiaomi%20Redmi%20Note%205%20Pro%203.jpg"],
+	"images": "https://images-na.ssl-images-amazon.com/images/I/41Xg1-BI%2B0L.jpg,http://www.buyfree.in/userdata/gfx/9f8da0ea20ba8a5ce3bacf15d4c4d26c.jpg,https://www.phonecurry.com/img/phones/Xiaomi%20Redmi%20Note%205%20Pro%203.jpg",
 	"desc": "Take photos, make calls or watch videos easily on this Redmi Note 5 Pro mobile phone. Powered by Qualcomm Snapdragon 636 Octa-core Processor, this mobile will provide a lag-free performance even when you’re multitasking. And, the 4000 mAh battery will ensure longer hours of entertainment without any interruption.",
 	"specs": "* 4 GB RAM | 64 GB ROM | Expandable Upto 128 GB\n * 15.21 cm(5.99 inch) Full HD + Display\n * 12 MP + 5 MP | 20 MP Front Camera\n * 4000 mAh Li Polymer Battery\n * Qualcomm Snapdragon 636 Processor "
 }, {
 	"name": "Redmi Note 6 Pro",
-	"images": ["https://n1.sdlcdn.com/imgs/h/x/i/MI-Black-Note-6-Pro-SDL668020971-2-cfe55.jpeg", "https://images.sg.content-cdn.io/cdn//in-resources/0211f4bd-ce6a-4162-95a2-f801e5ae9176/Images/ProductImages/Source/notepro6pro-Black1.jpg;width=600;height=900;scale=canvas;anchor=bottomcenter", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMBBzAd-_ZXfQWCqoNn7kfVpkpExOm9umzD5N0X48DjWutFG7D"],
+	"images": "https://n1.sdlcdn.com/imgs/h/x/i/MI-Black-Note-6-Pro-SDL668020971-2-cfe55.jpeg,https://images.sg.content-cdn.io/cdn//in-resources/0211f4bd-ce6a-4162-95a2-f801e5ae9176/Images/ProductImages/Source/notepro6pro-Black1.jpg;width=600;height=900;scale=canvas;anchor=bottomcenter,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMBBzAd-_ZXfQWCqoNn7kfVpkpExOm9umzD5N0X48DjWutFG7D",
 	"desc": "Say hello to Redmi Note 6 Pro - Xiaomi's first smartphone that boasts an AI-powered quad-camera. Now enjoy a smart camera experience with the AI Scene Detection feature. It helps your camera understand what it is looking at and enhances the picture automatically. Take beautiful, sharp images, thanks to the Dual Pixel Autofocus technology. Its 1.4 micrometer pixel size and wider f/1.9 aperture offer you an enhanced low-light photography experience. Powered by a Qualcomm Snapdragon 636 octa-core processor and a 4000 mAh high-capacity battery, this smartphone delivers a seamless performance and up to two days of battery life.",
 	"specs": "* 4 GB RAM | 64 GB ROM | Expandable Upto 256 GB\n * 15.9 cm(6.26 inch) FHD + Display\n * 12 MP + 5 MP | 20 MP + 2 MP Dual Front Camera\n * 4000 mAh Li - polymer Battery\n * Qualcomm Snapdragon 636 Processor "
 }]
