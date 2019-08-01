@@ -2,13 +2,13 @@
 {
 "img":"https://www.91-cdn.com/pricebaba-images/images/product/mobile/47096/xiaomi-redmi-note-5-pro-6gb-64gb-raw-223151.jpg",
 "name":"Redmi Note 5 Pro",
-"ram":"4GB,64GB",
+"ram":"4GB,\n64GB",
 "price":"$51.5"
 },
 {
 "img":"https://images.g2a.com/newlayout/376x470/1x1x0/3f681e9aebf7/5be039b4ae653a042725292c",
 "name":"Redmi Note 6 Pro",
-"ram":"4GB,64GB",
+"ram":"4GB <br/> 64GB",
 "price":"$52.5"
 },
 {
