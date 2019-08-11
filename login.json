@@ -1,14 +1,10 @@
 [
 {
 "userid":"swayamgupta",
-"password":"1234567890",
-"counter":"0",
-"deviceid":"null"
+"password":"1234567890"
 },
 {
 "userid":"bibugupta",
-"password":"12345678",
-"counter":"0",
-"deviceid":"null"
+"password":"12345678"
 }
 ]
